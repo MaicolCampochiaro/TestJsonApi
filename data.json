@@ -1,0 +1,119 @@
+{
+  "football_teams": [
+    {
+      "team_name": "Manchester United",
+      "players": [
+        {
+          "name": "Bruno Fernandes",
+          "position": "Midfielder",
+          "statistics": {
+            "goals": 10,
+            "assists": 12,
+            "appearances": 30
+          }
+        },
+        {
+          "name": "Marcus Rashford",
+          "position": "Forward",
+          "statistics": {
+            "goals": 15,
+            "assists": 8,
+            "appearances": 28
+          }
+        }
+      ]
+    },
+    {
+      "team_name": "Real Madrid",
+      "players": [
+        {
+          "name": "Karim Benzema",
+          "position": "Forward",
+          "statistics": {
+            "goals": 25,
+            "assists": 5,
+            "appearances": 32
+          }
+        },
+        {
+          "name": "Luka Modric",
+          "position": "Midfielder",
+          "statistics": {
+            "goals": 3,
+            "assists": 10,
+            "appearances": 30
+          }
+        }
+      ]
+    },
+    {
+      "team_name": "Bayern Munich",
+      "players": [
+        {
+          "name": "Robert Lewandowski",
+          "position": "Forward",
+          "statistics": {
+            "goals": 30,
+            "assists": 4,
+            "appearances": 31
+          }
+        },
+        {
+          "name": "Joshua Kimmich",
+          "position": "Midfielder",
+          "statistics": {
+            "goals": 4,
+            "assists": 11,
+            "appearances": 29
+          }
+        }
+      ]
+    },
+    {
+      "team_name": "Paris Saint-Germain",
+      "players": [
+        {
+          "name": "Kylian Mbappe",
+          "position": "Forward",
+          "statistics": {
+            "goals": 28,
+            "assists": 6,
+            "appearances": 27
+          }
+        },
+        {
+          "name": "Neymar Jr.",
+          "position": "Forward",
+          "statistics": {
+            "goals": 18,
+            "assists": 12,
+            "appearances": 25
+          }
+        }
+      ]
+    },
+    {
+      "team_name": "Liverpool",
+      "players": [
+        {
+          "name": "Mohamed Salah",
+          "position": "Forward",
+          "statistics": {
+            "goals": 20,
+            "assists": 9,
+            "appearances": 29
+          }
+        },
+        {
+          "name": "Virgil van Dijk",
+          "position": "Defender",
+          "statistics": {
+            "goals": 3,
+            "assists": 1,
+            "appearances": 30
+          }
+        }
+      ]
+    }
+  ]
+}
