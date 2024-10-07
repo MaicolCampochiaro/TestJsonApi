@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Project Alpha",
+    "slug": "project-alpha",
+    "projectdetails": "This is the first project, focusing on AI development.",
+    "mainprojectimage": "https://example.com/images/alpha.jpg"
+  },
+  {
+    "name": "Project Beta",
+    "slug": "project-beta",
+    "projectdetails": "This is the second project, focused on blockchain technology.",
+    "mainprojectimage": "https://example.com/images/beta.jpg"
+  },
+  {
+    "name": "Project Gamma",
+    "slug": "project-gamma",
+    "projectdetails": "This project explores advancements in renewable energy.",
+    "mainprojectimage": "https://example.com/images/gamma.jpg"
+  }
+]
